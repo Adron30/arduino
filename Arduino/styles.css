@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0%;
+}
+body{
+    background-color: rgb(24, 175, 205);
+}
+h4{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 4.5rem;
+    font-size: 1.5rem;
+}
+#banner{
+    width: 30rem;
+    height: 5px;
+    background-color: black;
+    border-color: black;
+    border-radius: 22px;
+}
+#piezas_prin{
+    margin-top: 3rem;
+    padding-left: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    
+}
